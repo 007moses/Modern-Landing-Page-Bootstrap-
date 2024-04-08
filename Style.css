@@ -1,0 +1,57 @@
+body{
+    background-color: #6f42c1;
+}
+.container-fluid{
+    
+    
+}
+.btn{
+    outline: #6f42c1;
+}
+.bi{
+    background-color: black;
+    color: white;
+}
+input{
+    align-items: center;
+}
+.tabs{
+    display:block;
+    flex-direction: column;
+    overflow: hidden;
+    text-decoration: none;
+    list-style-type: none;
+
+    }
+.courses.card{
+    display: block;
+    flex-direction: column;
+    width: auto;
+    padding: 20px;
+}
+.tabs img{
+    height: 25px;
+    width: 25px;
+
+}
+.tabs li{
+    float:left;
+    padding-left: 20px;
+    
+    
+}
+.tabs li:hover{
+background-color: gray;
+color: red;
+}
+
+
+.header{
+    width: 50%;
+}
+.carousel-item{
+    padding: 30px;
+}
+
+
+
